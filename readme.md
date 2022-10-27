@@ -15,3 +15,6 @@ npm i -g nodemon
 EXAMPLE .ENV
 
 PORT = NUMBERPORT
+
+##CONNECT DATA BASE
+npm i mongoose
